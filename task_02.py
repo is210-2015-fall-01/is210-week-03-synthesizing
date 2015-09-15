@@ -4,3 +4,7 @@
 
 
 import inquisition
+
+INDEX_SPANISH = inquisition.SPANISH.index('Spanish')
+
+print INDEX_SPANISH
